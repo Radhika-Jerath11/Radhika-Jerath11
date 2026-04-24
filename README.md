@@ -23,7 +23,7 @@
                 not just things that look good
 
 > current_mission:
-    - training ML models 🧠
+    - training ML models 
     - exploring real-world datasets
     - improving problem-solving skills
 
